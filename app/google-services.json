@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830909553237",
+    "firebase_url": "https://admobinterstitialadsdemo.firebaseio.com",
+    "project_id": "admobinterstitialadsdemo",
+    "storage_bucket": "admobinterstitialadsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830909553237:android:d7616003c3bcc596",
+        "android_client_info": {
+          "package_name": "com.example.admobinterstitialadsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830909553237-6bunm4rncnemc32pr77m21ss3dhgcsj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admobinterstitialadsdemo",
+            "certificate_hash": "9bb6981d1423cf457d73939e0869f5958a075fc0"
+          }
+        },
+        {
+          "client_id": "830909553237-qb6pi5isiaeodu5s2ghgqgpt94gkacmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqJ44pyn2PvSgYdw3v_jW0XQWtquseF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830909553237-qb6pi5isiaeodu5s2ghgqgpt94gkacmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
